@@ -12,23 +12,11 @@
 git clone https://github.com/YaroslavBudzyn/UserManagementApi.git
 cd UserManagementApi
 
-markdown
-Копіювати
-Редагувати
-
 2. Run API:
-dotnet run --project WebApi
-
-arduino
-Копіювати
-Редагувати
+dotnet run --project UserManagementApi
 
 3. API available at:
 https://localhost:5001/swagger
-
-sql
-Копіювати
-Редагувати
 
 ## ✅ Test with NUnit
 
