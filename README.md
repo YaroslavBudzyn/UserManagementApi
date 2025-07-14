@@ -9,7 +9,7 @@
 ## ▶️ How to Run
 
 1. Clone the repo:
-git clone https://github.com/your/repo.git
+git clone https://github.com/YaroslavBudzyn/UserManagementApi.git
 cd UserManagementApi
 
 markdown
